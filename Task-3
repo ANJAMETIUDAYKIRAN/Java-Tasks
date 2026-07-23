@@ -40,3 +40,20 @@ public class BinarySearch {
         sc.close();
     }
 }
+
+
+
+
+
+
+Output:
+
+Enter size: 3
+Enter sorted elements:
+09
+45
+89
+Enter element to search: 09
+Element found at index 0
+
+=== Code Execution Successful ===
